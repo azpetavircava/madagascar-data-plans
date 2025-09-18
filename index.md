@@ -61,3 +61,10 @@ layout: default
 *   **中长期停留 & 性价比优先 & 不介意落地操作**：落地机场，直奔**Telma或Airtel柜台**，买张30天有效、15-20GB左右的物理SIM卡。记得带护照、现金，并当场测试设置好！
 
 　　网络，就像是探索马达加斯加这片神奇岛屿的隐形钥匙。提前规划好连接方案，才能更专注于邂逅狐猴的惊喜、沉醉于宝石般海湾的壮丽。旅途顺利，保持在线！
+
+<!-- crosslink -->
+---
+
+## 相关指南
+
+- [Madagascar SIM 卡购买与激活指南](https://faciylike.github.io/madagascar-sim-guides)
